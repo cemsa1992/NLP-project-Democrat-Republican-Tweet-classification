@@ -1,2 +1,1 @@
-# Quick-NLP-Project
-Classification of twitter influencers for democrat or republican with NLP 
+The data has been scraped from twitter for the top 20 democrat influencers and top 20 republican influencers. The notebook aims to create a machine learning model to classify a user whether they are a democrat or a republican based on their tweet history.
